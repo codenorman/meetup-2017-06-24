@@ -12,5 +12,5 @@
 	
 ## Why Functional Programming
 	Brian Chirgwin
-	<https://github.com/codenorman/why-functional>
+	https://github.com/codenorman/why-functional
 	
